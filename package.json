@@ -17,6 +17,7 @@
     "gulp-jsdoc": "^0.1.5",
     "gulp-minify": "0.0.15",
     "gulp-uglify": "^2.0.1",
+    "jsdoc": "^3.4.3",
     "pump": "^1.0.2"
   }
 }
