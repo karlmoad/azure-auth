@@ -1,6 +1,6 @@
 {
   "name": "azure-auth",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "javascript authentication and authorization library for use with Azure Active Directory and Polymer based SPAs",
   "repository": {
     "type": "git",
